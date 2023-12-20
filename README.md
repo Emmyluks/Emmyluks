@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Emmyluks
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning responsive web design
+- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on front end development projects
 - 📫 How to reach me through my email: emmanuelluka40@gmail.com
 
