@@ -13,7 +13,7 @@ A proactive, hands-on Cybersecurity and IT Infrastructure Specialist specializin
 
 ### 🚀 Active Technical Portfolio & Labs
 
-#### 🛡️ [Security Monitoring and Automation for DVWA](https://github.com/Emmyluks/)
+#### 🛡️ [Security Monitoring and Automation for DVWA](https://medium.com/@emmanuelluka40/security-monitoring-and-automation-for-dvwa-c1a771fb6165)
 *Built an end-to-end security operations infrastructure automating threat detection, log ingestion, data enrichment, and incident response alerting.*
 
 *   **Attacker Simulation:** Deployed a **Kali Linux** instance to execute adversarial behaviors, including network-wide `Nmap` reconnaissance scans and targeted SQL Injection (SQLi) attacks against a **DVWA** target environment.
